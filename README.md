@@ -2,11 +2,13 @@
 
 Print matrix within - and | without using any library
 
-## Example
+### Example
 
-### -                                       -
-### |        1       2       3       4      |
-### |        9      10      11      12      |
-### |        5       6       7       8      |
-### |       13      14      15      16      |
-### -                                       -
+```sh
+-                                       -
+|        1       2       3       4      |
+|        9      10      11      12      |
+|        5       6       7       8      |
+|       13      14      15      16      |
+-                                       -
+```
